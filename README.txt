@@ -2,7 +2,7 @@
 An application to back up your Tumblr Posts
 
 This application has been tested on Windows 10 and Ubuntu 16.04.
-Thanks to @cryocat (https://github.com/Cryocrat) for helping me test this on Windows 10.
+Thanks to @cryocrat (https://github.com/Cryocrat) for helping me test this on Windows 10.
 
 ## Requirements to Run
 - Java
